@@ -3,88 +3,39 @@ repository: srinuvallabhaneni/Static-Resume
 # favicon: images/favicon.ico
 
 # Personal info
-name: Srinivas Vallabhaneni
-title: Computer Science Master's Student
-email: svallab4@asu.edu
-website: https://github.com/srinuvallabhaneni/Static-Resume
+name: srinivas vallabhaneni
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/srinuvallabhaneni/Static-Resume
 
 # Social links
-#twitter_username: facespics
-github_username:  srinuvallabhaneni
+twitter_username: facespics
+github_username:  sproogen
 # dribbble_username: jekyll
- facebook_username: srinivas Vallabhaneni
+# facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: chillwildlife
-linkedin_username: srinivas-vallabhaneni
+instagram_username: chillwildlife
+linkedin_username: jameswgrant
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/DSC_0163.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am a Computer Science Master’s student specializing in Big Data Systems, currently working in Machine learning and AWS platform. 
-  Actively looking for internship opportunities for summer 2019 to utilize my exemplary skills and gain experience.
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> , <mark>Data Analytics</mark> , <mark>Data Visualizations</mark> and <mark>Bio-Informatics tools</mark>
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
-    Human Gesture Recognition: September 2018
-• Used Feature extraction (DWT, PDS, FFT, RMS, STD) and Feature Selection (PCA, LDA) methods to extract 5
-most discriminating features out of Human Gesture data from 37 users.
-• Used Myo Sensor to record the movements (gesture data) and classified them using CNN, SVM, and Decision tree
-• Used accuracy and precision % to choose the best feature
-Technology Used: Myo sensor, MATLAB, R
-    Image analysis and Recommendation: September 2018
-• Classified images based on similarity and dissimilarity score using TF, TF-IDF values from textual and visual
-descriptors. Selected features using PCA, SVD, LDA, CPD & Page-Rank methods and then recommended images
-using kNN, Spectral clustering, k-Means Clustering, PageRank and PPR methods.
-• Implemented multidimensional index structure for NN search and visualized the relevant recommended images in web
-browser
-Technology used: Python (PyCharm), Pandas, Tensorly, MongoDB, NumPy
-    Movie recommendation system using Sentiment Analysis: January 2018
-• Built an app using machine learning techniques to determine the failure or success of a movie by collecting tweets
-from twitter on AWS platform.
-• Amazon S3 bucket was used to store the collected tweets. Amazon EC2 instances were used for computing and
-ganglia for benchmarking the application developed.
-Technology Used: AWS Platform (S3, EC2), Python, K-means clustering
-    Hadoop based approach for Mining the Activity Patterns: May 2018
-• Analyzed Health care data using Hadoop framework alongside with some Hadoop ecosystems like HDFS,
-MapReduce, Hive and Pig.Designed a visualization to predict the relationship between the usage of electronic
-devices and the effect it causes on the people.
-Technology Used: Hadoop Framework (Hive and Pig), MapReduce algorithms, VMWare
-    Classification of .SAR files: Mar 2017
-• The SAR (Synthetic Aperture Radar) images are segmented into water, vegetation, urban areas and any kind of noises in
-the land-water classification are removed. A supervised classification algorithm has been used to classify the SAR
-images. The segments are labeled as water and urban areas using SVM classification. Any kind of speckle noise is also
-removed.
-Technology used: R language, Windows.
 
 # Experience Section
 # experience_title: Experience
-Intern: BSNL June 2017 - September 2017
-• Collected and analyzed data into serviceable insights by predicting and modeling the outcomes using SPSS as the analysis
-tool.
-• Used Machine Learning algorithms, MS SQL, Data warehousing methods for data analysis and intelligence.
-Technology Used: SPSS, MS SQL
-
-Teaching Assistant: Big data in Business (CIS 415) October 2018 - current
-• Closely working with AWS Big Data platform [Amazon EMR, Amazon Redshift, S3 buckets, EC2 instance] to process data
-and to create Big Data environments.
-• Grading assignments, quizzes, guided exercises and helping professor with relevant research work.
-Technology Used: Amazon EMR [Zeppelin, Hue], Amazon Redshift, AWS Glue
-
 
 # Education Section
 # educaton_title: Education
-Master of Science – Computer Science Expected May 2020
-Arizona State University, Tempe, AZ GPA 3.5 / 4.0
-Coursework: Statistical Machine Learning, Data Mining, Data Visualization, Multimedia and web Databases, Distributed database systems, Foundations of algorithms
-Bachelor of Technology in Computer Science with Bio-Informatics May 2018
-VIT Deemed University, Vellore, India GPA 8.9/10 (3.7/4.0)
-Coursework: Image and Vision processing, Software project management, Modelling and simulation, Analytical Bio informatics, CGI and web programming, Agent based Intelligent systems, Linear algebra, probability and Statistics etc.
 
 # More Section
 # more_title: A Little More About Me
@@ -107,5 +58,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-theme: jekyll-theme-cayman
