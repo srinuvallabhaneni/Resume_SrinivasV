@@ -3,8 +3,59 @@
   github: srinuvallabhaneni/
   description: | # this will include new lines to allow paragraphs
     • Used Feature extraction (DWT, PDS, FFT, RMS, STD) and Feature Selection (PCA, LDA) methods to extract 5
-    most discriminating features out of Human Gesture data from 37 users.
-    • Used Myo Sensor to record the movements (gesture data) and classified them using CNN, SVM, and Decision tree
-    • Used accuracy and precision % to choose the best feature
+    most discriminating features out of Human Gesture data from 37 users, which is collected using myo sensor bands.
+    And then classified them using CNN, SVM, and Decision tree algorithms using accuracy and precision % to select the best feature
   quote: >
     Technology Used: Myo sensor, MATLAB, R
+
+- name: Image analysis and Recommendation
+  link: github.com/srinuvallabhaneni
+  github: srinuvallabhaneni/
+  description: | # this will include new lines to allow paragraphs
+    • Classified images based on similarity and dissimilarity score using TF, TF-IDF values from textual and visual
+    descriptors. Selected features using PCA, SVD, LDA, CPD & Page-Rank methods and then recommended images
+    using kNN, Spectral clustering, k-Means Clustering, PageRank and PPR methods.And then implemented multidimensional index structure for NN search and visualized the relevant recommended images in web
+    browser
+  quote: >
+    Technology used: Python (PyCharm), Pandas, Tensorly, MongoDB, NumPy
+
+- name: Brain Network Analysis
+  link: github.com/srinuvallabhaneni
+  github: srinuvallabhaneni/
+  description: | # this will include new lines to allow paragraphs
+    • Predicted a human subject is high or normal math capable from brain connectivity graphs from 114 human subjects.
+      Extracted topological features such as clustering coefficient, edge betweenness & local efficiency from brain network graphs using NetworkX library in python. (Selected 2 classes that best differentiates as input to the classifiers)
+      Classified the data using different models like SVM, Logistic regression, KNN for predictions and found that SVM provides the highest accuracy score. (Labelled subjects with math capability over 120 as 1 and others as 0)
+  quote: >
+    Technology Used: Python, NetworkX, SVM, Logistic Regression, KNN
+    
+name: Movie recommendation system using Sentiment Analysis
+  link: github.com/srinuvallabhaneni
+  github: srinuvallabhaneni/
+  description: | # this will include new lines to allow paragraphs
+    • Built an app using machine learning techniques to determine the failure or success of a movie by collecting tweets
+    from twitter on AWS platform. Amazon S3 bucket was used to store the collected tweets. Amazon EC2 instances were used for computing and
+    ganglia for benchmarking the application developed.
+  quote: >
+    Technology Used: AWS Platform (S3, EC2), Python, K-means clustering
+
+name: Hadoop based approach for Mining the Activity Patterns
+  link: github.com/srinuvallabhaneni
+  github: srinuvallabhaneni/
+  description: | # this will include new lines to allow paragraphs
+    • Analyzed Health care data using Hadoop framework alongside with some Hadoop ecosystems like HDFS,
+    MapReduce, Hive and Pig.Designed a visualization to predict the relationship between the usage of electronic
+    devices and the effect it causes on the people.
+  quote: >
+    Technology Used: Hadoop Framework (Hive and Pig), MapReduce algorithms, VMWare
+    
+name: Classification of .SAR files
+  link: github.com/srinuvallabhaneni
+  github: srinuvallabhaneni/
+  description: | # this will include new lines to allow paragraphs
+    • The SAR (Synthetic Aperture Radar) images are segmented into water, vegetation, urban areas and any kind of noises in
+    the land-water classification are removed. A supervised classification algorithm has been used to classify the SAR
+    images. The segments are labeled as water and urban areas using SVM classification. Any kind of speckle noise is also
+    removed.
+  quote: >
+    Technology used: R language, Windows.
