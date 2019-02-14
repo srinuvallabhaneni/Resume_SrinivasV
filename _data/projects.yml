@@ -29,7 +29,7 @@
   quote: >
     Technology Used: Python, NetworkX, SVM, Logistic Regression, KNN
     
-name: Movie recommendation system using Sentiment Analysis
+- name: Movie recommendation system using Sentiment Analysis
   link: github.com/srinuvallabhaneni
   github: srinuvallabhaneni/
   description: | # this will include new lines to allow paragraphs
@@ -39,7 +39,7 @@ name: Movie recommendation system using Sentiment Analysis
   quote: >
     Technology Used: AWS Platform (S3, EC2), Python, K-means clustering
 
-name: Hadoop based approach for Mining the Activity Patterns
+- name: Hadoop based approach for Mining the Activity Patterns
   link: github.com/srinuvallabhaneni
   github: srinuvallabhaneni/
   description: | # this will include new lines to allow paragraphs
@@ -49,7 +49,7 @@ name: Hadoop based approach for Mining the Activity Patterns
   quote: >
     Technology Used: Hadoop Framework (Hive and Pig), MapReduce algorithms, VMWare
     
-name: Classification of .SAR files
+- name: Classification of .SAR files
   link: github.com/srinuvallabhaneni
   github: srinuvallabhaneni/
   description: | # this will include new lines to allow paragraphs
@@ -58,4 +58,4 @@ name: Classification of .SAR files
     images. The segments are labeled as water and urban areas using SVM classification. Any kind of speckle noise is also
     removed.
   quote: >
-    Technology used: R language, Windows.
+    Technology used: R language, Windows
