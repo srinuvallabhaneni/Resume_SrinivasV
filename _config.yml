@@ -12,17 +12,17 @@ website: www.github.com/srinuvallabhaneni/Static-Resume
 #twitter_username: facespics
 github_username:  srinuvallabhaneni
 # dribbble_username: jekyll
-facebook_username: srinu.candy
 # flickr_username: jekyll
 #instagram_username: chillwildlife
 linkedin_username: srinivas-vallabhaneni
+facebook_username: srinu.candy
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/srinu.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am a Computer Science Master’s student specializing in Big Data Systems, currently working in Machine learning and AWS platform. 
   Actively looking for internship opportunities for summer 2019 to utilize my exemplary skills and gain experience.
