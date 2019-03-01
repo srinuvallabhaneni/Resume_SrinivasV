@@ -1,6 +1,6 @@
 - name: Human Gesture Recognition
-  link: github.com/srinuvallabhaneni
-  github: srinuvallabhaneni/
+  link: github.com/srinuvallabhaneni/Human-Gesture-Recognition
+  github: srinuvallabhaneni/Human-Gesture-Recognition
   description: | # this will include new lines to allow paragraphs
     • Used Feature extraction (DWT, PDS, FFT, RMS, STD) and Feature Selection (PCA, LDA) methods to extract 5
     most discriminating features out of Human Gesture data from 37 users, which is collected using myo sensor bands.
@@ -9,8 +9,8 @@
     Technology Used: Myo sensor, MATLAB, R
 
 - name: Image analysis and Recommendation
-  link: github.com/srinuvallabhaneni
-  github: srinuvallabhaneni/
+  link: github.com/srinuvallabhaneni/Image-analysis-and-Recommendation
+  github: srinuvallabhaneni/Image-analysis-and-Recommendation
   description: | # this will include new lines to allow paragraphs
     • Classified images based on similarity and dissimilarity score using TF, TF-IDF values from textual and visual
     descriptors. Selected features using PCA, SVD, LDA, CPD & Page-Rank methods and then recommended images
@@ -20,8 +20,8 @@
     Technology used: Python (PyCharm), Pandas, Tensorly, MongoDB, NumPy
 
 - name: Brain Network Analysis
-  link: github.com/srinuvallabhaneni
-  github: srinuvallabhaneni/
+  link: github.com/srinuvallabhaneni/Determining-Human-Intelligence-Using-Brain-Network-Analysis
+  github: srinuvallabhaneni/Determining-Human-Intelligence-Using-Brain-Network-Analysis
   description: | # this will include new lines to allow paragraphs
     • Predicted a human subject is high or normal math capable from brain connectivity graphs from 114 human subjects.
       Extracted topological features such as clustering coefficient, edge betweenness & local efficiency from brain network graphs using NetworkX library in python. (Selected 2 classes that best differentiates as input to the classifiers)
